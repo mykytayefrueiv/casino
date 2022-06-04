@@ -1,0 +1,51 @@
+[
+  {
+  "id": 1,
+  "name": "Super Twister",
+  "description": "Lorem ipsum",
+  "userRating": 4.5,
+  "enabled": true,
+    "img": "https://images.unsplash.com/photo-1563277267-0e9f2dabb9ba?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1365&q=80"
+},
+  {
+    "id": 2,
+    "name": "Awful Twister",
+    "description": "Lorem ipsum",
+    "userRating": 1,
+    "enabled": true,
+    "img": "https://images.unsplash.com/photo-1595355115488-f18d14e02afe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3035&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Mega Twister",
+    "description": "Lorem ipsum",
+    "userRating": 3,
+    "enabled": false,
+    "img": "https://images.unsplash.com/photo-1583634852966-130c15654305?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3359&q=80"
+  },
+
+  {
+    "id": 5,
+    "name": "Gambling Twister",
+    "description": "Lorem ipsum",
+    "userRating": 3.5,
+    "enabled": false,
+    "img": "https://images.unsplash.com/photo-1541474583361-bc9527eb46d6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1457&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Ultra Twister",
+    "description": "Lorem ipsum",
+    "userRating": 5,
+    "enabled": true,
+    "img": "https://images.unsplash.com/photo-1511512578047-dfb367046420?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2371&q=80"
+  },
+  {
+    "id": 6,
+    "name": "Not Twister",
+    "description": "Lorem ipsum",
+    "userRating": 5,
+    "enabled": true,
+    "img": "https://images.unsplash.com/photo-1523843268911-45a882919fec?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1364&q=80"
+  }
+]
