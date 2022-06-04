@@ -1,3 +1,8 @@
+### Steps to run
+
+1. Run `npm install`
+2. Run `npm start`
+
 ### `npm start`
 
 Runs the app in the development mode.\
